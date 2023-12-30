@@ -1,17 +1,17 @@
+- [gallifrey-war](#gallifrey-war)
+  - [**__Oh-My-Zsh__**](#oh-my-zsh)
+    - [Demo](#demo)
+    - [Installation](#installation)
+  - [**__Starship__**](#starship)
+    - [Demo](#demo-1)
+    - [Installation](#installation-1)
+
 # gallifrey-war
 
 [Oh-My-Zsh](https://ohmyz.sh/) and [Starship](https://starship.rs/) theme inspired by
 [`gallifrey` theme](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#gallifrey)
 
-- [gallifrey-war](#gallifrey-war)
-  - [Oh-My-Zsh](#oh-my-zsh)
-    - [Demo](#demo)
-    - [Installation](#installation)
-  - [Starship](#starship)
-    - [Demo](#demo-1)
-    - [Installation](#installation-1)
-
-## Oh-My-Zsh
+## **__Oh-My-Zsh__**
 
 ![Gallifrey-war theme illustration](resources/oh-my-zsh/demo.png)
 
@@ -42,9 +42,9 @@ Tested on:
 - `Ubuntu-22.04`
 - `WSL 2`
 
-## Starship
+## **__Starship__**
 
-![Gallifrey-war theme illustration](resources/oh-my-zsh/demo.png)
+![Gallifrey-war theme illustration](resources/starship/demo.png)
 
 ### Demo
 
